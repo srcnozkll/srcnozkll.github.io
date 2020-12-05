@@ -1,0 +1,57 @@
+body {
+    background-color: lightgray;
+}
+
+#baslik {
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    float: top;
+}
+
+#menu {
+    margin: 40px 100px 100px 100px;
+}
+
+#menulink a {
+    font: bold 15px arial, helvetica, sans-serif;
+    text-decoration: none;
+    padding: 10px 10px 0px 10px;
+    margin-right: 10px;
+
+}
+
+.burdasin {
+    border: 1px solid white;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    color: black;
+    background-color: white;
+}
+
+.burdamisin {
+    border: 1px solid rgb(242, 242, 242);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: rgb(242, 242, 242);
+    color: rgb(96, 135, 145);
+}
+.burdamisin:hover{
+    background-color:gray;
+    color: wheat;
+    border-color: gray;
+
+}
+
+#yazilar {
+    border: white;
+    border-style: solid;
+    border-radius: 30px;
+    border-top-left-radius: 0px;
+    background-color: white;
+    float: top;
+    height: 800px;
+    width: auto;
+}
